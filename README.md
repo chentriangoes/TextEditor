@@ -8,4 +8,6 @@ configure webpack and loader
 
 npm start -- sucessfully build and connect server
 
+Remove dist from github and rebuild it after dist was added to gitignore
+
 
