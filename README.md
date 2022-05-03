@@ -13,10 +13,13 @@ Demo video
 ### 📷 Screenshots
 * Client Dist
 ![Client Dist](./images/01_Client%20Dist.png)
+
 * Manifest.json
 ![Manifest.json](./images/02_Manifest.png)
+
 * Registered Service Workers
 ![Registered Service Workers](./images/03_Registered%20Service%20Workers.png)
+
 * IndexedDB
 ![IndexedDB](./images/04_IndexedDB%20Storage.png)
 
