@@ -11,13 +11,13 @@ Demo video
 * [Application Functionality](https://drive.google.com/file/d/1Urmi4XTTKqBHC9sLZopZJgT_taHMunbm/view?usp=sharing)
 
 ### 📷 Screenshots
-Client Dist
+* Client Dist
 ![Client Dist](./images/01_Client%20Dist.png)
-Manifest.json
+* Manifest.json
 ![Manifest.json](./images/02_Manifest.png)
-Registered Service Workers
+* Registered Service Workers
 ![Registered Service Workers](./images/03_Registered%20Service%20Workers.png)
-IndexedDB
+* IndexedDB
 ![IndexedDB](./images/04_IndexedDB%20Storage.png)
 
 ## 🕹 Technologies
