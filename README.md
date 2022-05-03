@@ -10,4 +10,8 @@ npm start -- sucessfully build and connect server
 
 Remove dist from github and rebuild it after dist was added to gitignore
 
+Troubleshooting
+Solution to heroku sh: 1: webpack: not found
+heroku config:set NPM_CONFIG_PRODUCTION=false
+
 
